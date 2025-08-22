@@ -1,0 +1,9 @@
+# Node & builds
+node_modules/
+dist/
+*.log
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
