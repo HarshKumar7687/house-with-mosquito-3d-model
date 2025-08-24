@@ -1,41 +1,84 @@
-# House with Mosquito 3D Model
+# 🏠 House with Mosquito - 3D Model
 
-A simple and elegant Web-based 3D scene featuring a house and a mosquito, built using modern web development tools.
+This project is a **3D visualization** of a house with mosquitoes, created using **Three.js**.  
+It is hosted on **GitHub Pages** for live preview.
 
-## Live Demo
+🔗 **Live Demo:** [House with Mosquito - 3D Model](https://harshkumar7687.github.io/house-with-mosquito-3d-model/)  
+🔗 **GitHub Repo:** [house-with-mosquito-3d-model](https://github.com/HarshKumar7687/house-with-mosquito-3d-model)
 
-Explore the interactive 3D environment online:
+---
 
-[View the live demo here](https://harshkumar7687.github.io/house-with-mosquito-3d-model/)
+## 🚀 Features
+- 🏠 3D House model
+- 🦟 Mosquito 3D object inside the scene
+- 🌌 HDRI/Environment lighting for realistic visuals
+- 🎮 OrbitControls for interactive navigation
+- 🌐 Works directly in the browser
 
-## Description
+---
 
-This project demonstrates how to craft and render a 3D scene in the browser, combining structural elements like a house with an animated character—a mosquito. It’s built using:
+## 📂 Project Structure
+```
+house-with-mosquito-3d-model/
+│── index.html          # Main HTML file
+│── style.css           # Stylesheet (if any styling applied)
+│── main.js             # Three.js scene setup & logic
+│── /assets             # Models, textures, HDRI files
+│── /node_modules       # Dependencies (ignored in GitHub Pages)
+│── package.json        # Project metadata & dependencies
+│── vite.config.js      # Vite bundler config (if using Vite)
+│── README.md           # Project documentation (this file)
+```
 
-- **JavaScript** for logic and scene management  
-- **HTML & CSS** for page structure and styling  
-- **[Tailwind CSS](https://tailwindcss.com/)** for quick and responsive design  
-- **[Vite](https://vitejs.dev/)** as the development and build tool  
+---
 
-Feel free to adapt, expand, or repurpose it as a learning example or as the foundation for a more complex 3D web project.
+## 🛠️ Installation & Setup
 
-## Features
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/HarshKumar7687/house-with-mosquito-3d-model.git
+   ```
 
-- Clean and minimal codebase  
-- Built with modern tooling and best practices  
-- Easy to extend with new models or interactions  
-- Live demo hosted via GitHub Pages
+2. Navigate to the project folder:
+   ```bash
+   cd house-with-mosquito-3d-model
+   ```
 
-├── public/
-│   └── static assets (images, 3D models, etc.)
-├── src/
-│   ├── index.html       ← Main HTML template
-│   ├── main.js          ← Entry point (initializes scene and logic)
-│   ├── style.css        ← Base styles (supplemented by Tailwind)
-│   └── index.css        ← Tailwind config or custom styles
-├── tailwind.config.js   ← Tailwind CSS configuration
-├── vite.config.js       ← Vite configuration
-├── package.json         ← Project metadata and scripts
-└── README.md            ← YOU ARE HERE
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open in browser:
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 🌐 Deployment
+This project is deployed using **GitHub Pages**.  
+To deploy manually:
+```bash
+npm run build
+git add dist -f
+git commit -m "Deploy build"
+git push origin main
+```
+
+---
+
+## 📸 Preview
+![3D Model Preview](https://raw.githubusercontent.com/HarshKumar7687/house-with-mosquito-3d-model/main/preview.png)
+
+---
+
+## 👨‍💻 Author
+**Harsh Kumar**  
+📌 Full-Stack Web Developer | Passionate about 3D Web & Interactive Apps
 
