@@ -71,12 +71,6 @@ git commit -m "Deploy build"
 git push origin main
 ```
 
----
-
-## 📸 Preview
-![3D Model Preview](https://raw.githubusercontent.com/HarshKumar7687/house-with-mosquito-3d-model/main/preview.png)
-
----
 
 ## 👨‍💻 Author
 **Harsh Kumar**  
