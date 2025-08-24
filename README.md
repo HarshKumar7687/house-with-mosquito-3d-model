@@ -26,14 +26,16 @@ Feel free to adapt, expand, or repurpose it as a learning example or as the foun
 - Easy to extend with new models or interactions  
 - Live demo hosted via GitHub Pages
 
-## Prerequisites
+├── public/
+│   └── static assets (images, 3D models, etc.)
+├── src/
+│   ├── index.html       ← Main HTML template
+│   ├── main.js          ← Entry point (initializes scene and logic)
+│   ├── style.css        ← Base styles (supplemented by Tailwind)
+│   └── index.css        ← Tailwind config or custom styles
+├── tailwind.config.js   ← Tailwind CSS configuration
+├── vite.config.js       ← Vite configuration
+├── package.json         ← Project metadata and scripts
+└── README.md            ← YOU ARE HERE
 
-- Node.js (v14 or higher recommended)  
-- npm (v6+) or Yarn for package management
 
-## Installation & Local Development
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/HarshKumar7687/house-with-mosquito-3d-model.git
-   cd house-with-mosquito-3d-model
