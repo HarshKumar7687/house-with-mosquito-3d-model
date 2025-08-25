@@ -38,5 +38,5 @@ house-with-mosquito-3d-model/
 📌 Full-Stack Web Developer | Passionate about 3D Web & Interactive Apps
 
 
-NOTE: this project may take some time to open
+NOTE: this project may take some time to open. So, please wait!
 
