@@ -32,45 +32,6 @@ house-with-mosquito-3d-model/
 
 ---
 
-## 🛠️ Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HarshKumar7687/house-with-mosquito-3d-model.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd house-with-mosquito-3d-model
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-5. Open in browser:
-   ```
-   http://localhost:5173
-   ```
-
----
-
-## 🌐 Deployment
-This project is deployed using **GitHub Pages**.  
-To deploy manually:
-```bash
-npm run build
-git add dist -f
-git commit -m "Deploy build"
-git push origin main
-```
-
 
 ## 👨‍💻 Author
 **Harsh Kumar**  
