@@ -39,4 +39,4 @@ house-with-mosquito-3d-model/
 
 
 NOTE: this project may take some time to open. So, please wait!
-..
+.
