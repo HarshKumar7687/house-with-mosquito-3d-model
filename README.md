@@ -31,7 +31,7 @@ house-with-mosquito-3d-model/
 ```
 
 ---
-...
+..
 
 ## 👨‍💻 Author
 **Harsh Kumar**  
